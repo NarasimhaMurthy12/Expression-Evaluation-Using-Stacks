@@ -1,0 +1,6 @@
+# Input Instructions
+As the program is execcuted , it askes the user to input the expression.
+For now it has been designed to take an expression of length 100 - can be extended if necessary.
+But the input has to be given with spaces between every operand and operator.
+For example : 31+15-8/3 - maynot give the correct answer
+              31 + 15 - 8 / 3 - must give the correct answer.
